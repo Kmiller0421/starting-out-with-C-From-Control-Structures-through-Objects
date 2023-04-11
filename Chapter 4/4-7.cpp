@@ -1,3 +1,7 @@
+/****************************************************
+Program Function: Display minutes, hours, and days
+based on the conditional statements down below.
+****************************************************/
 #include <iostream>
 #include <iomanip>  //Used for setprecision
 using namespace std;
