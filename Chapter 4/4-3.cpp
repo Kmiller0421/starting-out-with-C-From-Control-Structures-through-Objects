@@ -1,3 +1,7 @@
+/****************************************************
+Program Function: Determines whether the month times
+the day is equal to the year.
+****************************************************/
 #include <iostream>
 using namespace std;
 
