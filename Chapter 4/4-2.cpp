@@ -1,3 +1,7 @@
+/****************************************************
+Program Function: Display the Roman numeral version 
+of that number entered in by the user
+****************************************************/
 #include <iostream>
 #include <string>
 using namespace std;
