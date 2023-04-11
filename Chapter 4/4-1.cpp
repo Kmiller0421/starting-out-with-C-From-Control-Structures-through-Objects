@@ -1,3 +1,7 @@
+****************************************************/
+Program Function: Determines which number is the smaller
+and which is the larger.
+****************************************************/
 #include <iostream>
 using namespace std;
 
