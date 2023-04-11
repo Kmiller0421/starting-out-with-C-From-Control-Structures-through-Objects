@@ -1,3 +1,7 @@
+/****************************************************
+Program Function: Display a message indicating that the
+object is to heavy (1,000 newtons) or too light (10 newtons).
+****************************************************/
 #include <iostream>
 #include <iomanip>
 using namespace std;
